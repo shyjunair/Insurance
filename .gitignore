@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages/Microsoft.CrmSdk.CoreAssemblies.9.0.2.5
+/Insurance.Plugins/.vs/Insurance.Plugins/v17/TestStore/0
+/Insurance.Plugins/bin/Debug
+/Insurance.Plugins/obj
+/.vs
